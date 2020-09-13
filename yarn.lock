@@ -3738,9 +3738,9 @@ node-addon-api@^1.7.1:
   integrity sha512-ibPK3iA+vaY1eEjESkQkM0BbCqFOaZMiXRTtdB0u7b4djtY6JnsjvPdUHVMg6xQt3B8fpTTWHI9A+ADjM9frzg==
 
 node-fetch@^2.3.0:
-  version "2.6.0"
-  resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.6.0.tgz#e633456386d4aa55863f676a7ab0daa8fdecb0fd"
-  integrity sha512-8dG4H5ujfvFiqDmVu9fQ5bOHUC15JMjMY/Zumv26oOvvVJjM67KF8koCWIabKQ1GJIa9r2mMZscBq/TbdOcmNA==
+  version "2.6.1"
+  resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.6.1.tgz#045bd323631f76ed2e2b55573394416b639a0052"
+  integrity sha512-V4aYg89jEoVRxRb2fJdAg8FHvI7cEyYdVAh94HH0UIK8oJxUfkjlDQN9RbMx+bEjP7+ggMiFRprSti032Oipxw==
 
 node-forge@^0.7.1:
   version "0.7.6"
@@ -5892,3 +5892,8 @@ yargs@^14.0.0:
     which-module "^2.0.0"
     y18n "^4.0.0"
     yargs-parser "^15.0.1"
+
+yarn@^1.22.4:
+  version "1.22.5"
+  resolved "https://registry.yarnpkg.com/yarn/-/yarn-1.22.5.tgz#1933b7635429ca00847222dd9d38f05646e2df23"
+  integrity sha512-5uzKXwdMc++mYktXqkfpNYT9tY8ViWegU58Hgbo+KXzrzzhEyP1Ip+BTtXloLrXNcNlxFJbLiFKGaS9vK9ym6Q==
